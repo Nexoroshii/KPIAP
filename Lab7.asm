@@ -195,6 +195,6 @@ num dw 0
 argc dw 0
 buffer       db 0
 ;
-comand_name db "laba_7.com"
+comand_name db "LR7.com"
 program_length equ $-start     ; длина программы
 end start
